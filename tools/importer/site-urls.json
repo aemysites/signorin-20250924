@@ -1,0 +1,215 @@
+{
+  "originUrl": "https://www.ingrezza.com",
+  "aborted": false,
+  "lastCrawled": "https://www.ingrezza.com/tardive-dyskinesia",
+  "urls": [
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea",
+      "id": "f2ae1f173929f11a3fca652194fa166ed646a0ea"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/about-hd-chorea",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/about-hd-chorea",
+      "id": "db1aec0238da5800c157e23aea8e8c3304d4ef3d"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/benefits-of-ingrezza",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/benefits-of-ingrezza",
+      "id": "b745d48e4677863b4d76e3b88258ba9f499710f7"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/caregiver-resources",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/caregiver-resources",
+      "id": "37ed5cf14baa9bfa1d29217c18f8e73487799132"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/faqs",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/faqs",
+      "id": "2373e36a724c67bbb26ee5f65efe7d6b9cafbde3"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/how-ingrezza-works",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/how-ingrezza-works",
+      "id": "224b544320fa9fb6e9ffa17d81f0c1d239f89804"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/patient-resources",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/patient-resources",
+      "id": "77ba3dde212233298282bb6285399672803e6c7a"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/registration",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/registration",
+      "id": "da27486dc70de437b67d5581361961b0af16acd4"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/safety-side-effects",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/safety-side-effects",
+      "id": "54530b28b95b332ef28eff408ab63bdb8cefe2be"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/savings-support",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/savings-support",
+      "id": "967ad08a8fed37045e9f459d5bc13754a0a4ed45"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/share-your-voice",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/share-your-voice",
+      "id": "ad9bba978331f40e85e3851d6998198947fa0aea"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/sitemap",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/sitemap",
+      "id": "d05c252c92ca4f8274cebce6891416af2d929396"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/taking-ingrezza",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/taking-ingrezza",
+      "id": "dac6c30a38cc27375a65ca7d24871500904ce468"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/view-med-guide",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/view-med-guide",
+      "id": "ef1b3c14da85fde8dd860ab081fc5fbeda3dc7e5"
+    },
+    {
+      "url": "https://www.ingrezza.com/huntingtons-chorea/view-pi",
+      "source": "CRAWL",
+      "targetPath": "/huntingtons-chorea/view-pi",
+      "id": "0bf5acb21194078a12cd038cbbe724d0d6b9b94f"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia",
+      "id": "478bc5fc2fcb44f1332703bd96fa3ae633d28fd3"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/care-partner-resources",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/care-partner-resources",
+      "id": "db3bc89638b3665fa8adeaa18a48196b14ac5f2b"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/connecting-with-carnie",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/connecting-with-carnie",
+      "id": "5303f51ad3b08b6211d60411a32a27e08ba6bbcb"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/doctor-discussion-guide",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/doctor-discussion-guide",
+      "id": "1c4e3df9cf5abcc1027d6acded357953681e228f"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/faqs",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/faqs",
+      "id": "44b7f46e6bd68c57836c7f0705b30e6141271be0"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/find-a-specialist",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/find-a-specialist",
+      "id": "29de2498067fc537c6ff8519dc63d4e7ecb362fa"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/how-ingrezza-can-help",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/how-ingrezza-can-help",
+      "id": "e844b724caf554c5fed5a3373bb7f1af663677f9"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/patient-stories",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/patient-stories",
+      "id": "adc2aa6a0e89fd67232b5afdf30b0a394b481ace"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/registration",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/registration",
+      "id": "3cf315d249930ef002253cda316f34a777aceeca"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/savings-resources",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/savings-resources",
+      "id": "8868b5e3aca9c263e5198cbbd29f581ad0db179d"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/sitemap",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/sitemap",
+      "id": "37301332d5b5802c71194bb616e8a2ae59429d2e"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/taking-ingrezza",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/taking-ingrezza",
+      "id": "2e6ff85f3f6f66dad118e42ca130cb01ee1b33df"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/treatment-resources",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/treatment-resources",
+      "id": "f3ad0080d4c6c17a17165f8b063609462d3c0a53"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/view-med-guide",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/view-med-guide",
+      "id": "6e2dcedeec9f1cc3d590ee4764679a2dcbcd81b8"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/view-pi",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/view-pi",
+      "id": "08667c092547878e59a397d0d632c947e6165425"
+    },
+    {
+      "url": "https://www.ingrezza.com/tardive-dyskinesia/what-is-tardive-dyskinesia",
+      "source": "CRAWL",
+      "targetPath": "/tardive-dyskinesia/what-is-tardive-dyskinesia",
+      "id": "216308cad7c8cfeea96038751b7f58919cf09e38"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.ingrezza.com/td-sprinkle",
+      "status": "302 Found Redirect: https://www.ingrezza.com/tardive-dyskinesia/taking-ingrezza#sprinkle"
+    }
+  ],
+  "errorCountMessage": "{\"E_302\":1}",
+  "error": null
+}
